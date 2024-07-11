@@ -6,16 +6,16 @@
  */
 
 import React, { useState } from 'react';
-import type { PropsWithChildren } from 'react'
+import type { PropsWithChildren } from 'react';
 import {
   SafeAreaView,
-    ScrollView,
-   StatusBar,
+  ScrollView,
+  StatusBar,
   StyleSheet,
   Text,
-  useColorScheme,
+   useColorScheme,
   View,
-} from 'react-native';
+} from 'react-native'
 
 import {
   Colors,
