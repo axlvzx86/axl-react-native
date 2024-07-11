@@ -6,10 +6,10 @@
  */
 
 import React, { useState } from 'react';
-import type { PropsWithChildren } from 'react';
+import type { PropsWithChildren } from 'react'
 import {
   SafeAreaView,
-  ScrollView,
+   ScrollView,
   StatusBar,
   StyleSheet,
   Text,
